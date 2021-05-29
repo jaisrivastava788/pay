@@ -1,0 +1,54 @@
+.inner{
+     border: solid 1px black;
+     width: 100%;
+     display: flex;
+     flex-direction: row;
+    
+     
+}
+.outer{
+    width: fit-content;
+    padding: 20px;
+}
+.dateTime{
+    margin: 0;
+    text-align: right;
+}
+
+.pay{
+     padding-bottom: 10px;
+     padding-left: 15px;
+}
+
+.date{
+    text-align: center;
+}
+
+.pay p{
+    margin: 0;
+   
+}
+
+.confirm{
+    align-items: center;
+    padding: 25px;
+    
+    
+}
+.c1{
+    display: flex;
+    align-items: center;
+    
+}
+
+.c2{
+    
+    text-align: right;
+}
+
+.right{
+  
+   display: flex;
+   justify-content: flex-end;
+}
+
